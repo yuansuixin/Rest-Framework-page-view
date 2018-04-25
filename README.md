@@ -59,7 +59,7 @@ Rest-Framework部分自定义组件解析
 - 视图里面可以添加renderer_classes,也可以在配置中添加
 
 
-[中文文档详细解析]("https://yuansuixin.github.io/2018/05/01/rest-viewset/")
+[中文文档详细解析](https://yuansuixin.github.io/2018/05/01/rest-viewset/ "详细解析")
 
 
 
